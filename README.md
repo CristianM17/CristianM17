@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B9CD3,100:2E8BC0&height=200&section=header&text=¡Hola,%20soy%20[Tu%20Nombre]!&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B9CD3,100:2E8BC0&height=200&section=header&text=¡Hola,%20soy%20[Tu%20Cristian%20Marin]!&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
