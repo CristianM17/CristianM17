@@ -38,12 +38,6 @@ Desarrollador especializado en automatización con RPA, desarrollo de APIs RESTf
 
 ---
 
-<p align="center">
-  💡 Siempre buscando mejorar procesos a través de la tecnología.
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
