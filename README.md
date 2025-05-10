@@ -41,3 +41,13 @@ Desarrollador especializado en automatización con RPA, desarrollo de APIs RESTf
 <p align="center">
   💡 Siempre buscando mejorar procesos a través de la tecnología.
 </p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide=stars,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
