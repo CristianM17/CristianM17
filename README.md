@@ -1,13 +1,43 @@
-**CristianM17/CristianM17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B9CD3,100:2E8BC0&height=200&section=header&text=¡Hola,%20soy%20[Tu%20Nombre]!&fontSize=40&fontColor=ffffff" alt="banner" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  👨‍💻 Backend Developer | RPA Automation | Cloud Solutions 🚀  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 🔧 Sobre mí
+
+Desarrollador especializado en automatización con RPA, desarrollo de APIs RESTful en Django y despliegue de soluciones escalables en AWS. Me enfoco en crear soluciones eficientes, seguras y bien documentadas para optimizar procesos empresariales.
+
+---
+
+### 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D7?style=for-the-badge&logo=MicrosoftPowerAutomate&logoColor=white" />
+</p>
+
+---
+
+### 📫 Conéctate conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  💡 Siempre buscando mejorar procesos a través de la tecnología.
+</p>
