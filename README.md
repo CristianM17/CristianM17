@@ -29,19 +29,10 @@ Desarrollador especializado en automatización con RPA, desarrollo de APIs RESTf
 
 ---
 
-### 📫 Conéctate conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristian-marin-123a2618a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cristianmarin991117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianM17&show_icons=true&theme=tokyonight&hide=stars,issues" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianM17&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianM17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianM17&theme=tokyonight" alt="GitHub Streak" />
 </p>
