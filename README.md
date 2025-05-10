@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B9CD3,100:2E8BC0&height=200&section=header&text=¡Hola,%20soy%20[Tu%20Cristian%20Marin]!&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B9CD3,100:2E8BC0&height=200&section=header&text=¡Hola,%20soy%20Tu%20Cristian%20Marin!&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@ Desarrollador especializado en automatización con RPA, desarrollo de APIs RESTf
 ### 📫 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cristian-marin-123a2618a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cristianmarin991117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
